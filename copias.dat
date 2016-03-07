@@ -1,0 +1,33 @@
+
+
+carga de imagenes recortadas (Preload)
+
+        //this.load.image('bckgr-center','assets/recortes/bckgr-center.png');
+        //this.load.image('bckgr-top','assets/recortes/bckgr-top.png');
+        //this.load.image('bckgr-bottom','assets/recortes/bckgr-bottom.png');
+        //this.load.image('bckgr-left','assets/recortes/bckgr-left.png');
+        //this.load.image('bckgr-right','assets/recortes/bckgr-right.png');
+        //this.load.image('bckgr-topleft','assets/recortes/bckgr-topleft.png');
+        //this.load.image('bckgr-bottomleft','assets/recortes/bckgr-bottomleft.png');
+        //this.load.image('bckgr-topright','assets/recortes/bckgr-topright.png');
+        //this.load.image('bckgr-bottomright','assets/recortes/bckgr-bottomright.png');
+
+
+
+crear el fondo con pixels (Create)
+
+//background += this.add.sprite(0, 0, 'bckgr-topleft');
+        //background += this.add.sprite(60, 0, 'bckgr-top');
+        //background += this.add.sprite(540, 0, 'bckgr-topright');
+        //background += this.add.sprite(0, 60, 'bckgr-left');
+        //background += this.add.sprite(60, 60, 'bckgr-center');
+        //background += this.add.sprite(540, 60, 'bckgr-right');
+        //background += this.add.sprite(60, 536, 'bckgr-bottom');
+        //background += this.add.sprite(536, 0, 'bckgr-bottomleft');
+
+        //background = this.add.sprite(0, 0, 'background');
+        //var scale = this.world.height / background.height;
+        //background.scale.setTo(scale, scale);
+
+
+
